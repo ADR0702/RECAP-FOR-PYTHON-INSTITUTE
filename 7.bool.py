@@ -1,0 +1,2 @@
+empty=bool("")
+print(empty)
