@@ -1,0 +1,13 @@
++	Adunare	5 + 3	8
+-	Scădere	5 - 2	3
+*	Înmulțire	4 * 2	8
+/	Împărțire reală	5 / 2	2.5
+//	Împărțire întreagă	5 // 2	2
+%	Restul împărțirii	5 % 2	1
+**	Ridicare la putere	2 ** 3	8
+
+Python respectă ordinea matematică:
+
+1️⃣ ** – puterea
+2️⃣ *, /, //, %
+3️⃣ +, -

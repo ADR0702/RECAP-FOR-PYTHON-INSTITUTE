@@ -1,0 +1,1 @@
+absolute=abs(user,user2)
