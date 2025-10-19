@@ -1,0 +1,6 @@
+a = int(input("Add first number: \n"))
+b = int(input("Add second number: \n"))
+print(a==b)
+print(a!=b)
+print(a>b)
+print(a<=b)

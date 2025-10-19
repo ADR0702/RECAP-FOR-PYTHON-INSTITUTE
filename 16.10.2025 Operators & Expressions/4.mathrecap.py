@@ -1,0 +1,6 @@
+a = int(input("Add first number: \n"))
+b = int(input("Add second number: \n"))
+print((a + b) * 2)
+print(a ** 2 + b ** 2)
+print((a + b) % 3)
+print(a // b)
