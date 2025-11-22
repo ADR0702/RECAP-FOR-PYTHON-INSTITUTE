@@ -1,0 +1,171 @@
+1. Calculator simplu (cu funcții)
+
+Ce trebuie să faci:
+O aplicație care cere două numere și o operație (+, -, *, /) și afișează rezultatul.
+Să folosești:
+
+if/elif/else
+
+funcții separate pentru fiecare operație
+
+validare input (dacă nu e număr → cere din nou)
+
+2. Joc: Ghicește numărul
+
+Ce trebuie să faci:
+Programul alege un număr între 1 și 20.
+Utilizatorul ghicește până îl găsește.
+Folosim:
+
+while
+
+condiții
+
+break când ghicește
+
+3. Generator de parole simple
+
+Ce trebuie să faci:
+Ceri utilizatorului lungimea parolei și generezi o parolă din litere + cifre.
+Nu ai nevoie de librării externe — doar string și random (sunt built-in).
+Folosești:
+
+for
+
+funcții
+
+tipuri de date
+
+4. Conversie temperaturi
+
+Ce trebuie să faci:
+Ceri utilizatorului temperatura și unitatea (C sau F).
+Convertești F → C sau C → F.
+Folosești:
+
+funcții
+
+if
+
+input numeric vs string
+
+5. Mini-bază de date de nume
+
+Ce trebuie să faci:
+Folosind o listă, permiți utilizatorului să:
+
+adauge un nume
+
+șteargă un nume
+
+vadă lista completă
+
+iasă din program
+
+Trebuie un meniu care se repetă (while True).
+
+6. Afișează câte vocale și consoane are un cuvânt
+
+Ce trebuie să faci:
+Ceri un cuvânt. Afișezi:
+
+număr de vocale
+
+număr de consoane
+
+dacă are spații → eroare
+
+Folosești:
+
+for
+
+condiții
+
+funcții
+
+7. Validator simplu de parolă
+
+Ce trebuie să faci:
+Ceri o parolă și verifici:
+
+lungimea > 6
+
+conține cel puțin un număr
+
+conține cel puțin o literă mare
+
+conține cel puțin o literă mică
+
+Spui exact ce lipsește, nu doar „invalid”.
+
+8. Mini-aplicație de cheltuieli personale
+
+Ce trebuie să faci:
+Meniu:
+
+Adaugă o cheltuială (nume + sumă)
+
+Afișează totalul
+
+Afișează lista cheltuielilor
+
+Șterge o cheltuială după nume
+
+Ieșire
+
+Folosești:
+
+dicționare
+
+while
+
+funcții
+
+condiții
+
+9. Transformă o propoziție: primul cuvânt cu literă mare, restul mic
+
+Ce trebuie să faci:
+Input: propoziție.
+Output: prima literă mare, restul mici (inclusiv dacă userul a scris haotic).
+Ex:
+„hELLO WORLd” → „Hello world”
+
+Folosești:
+
+funcții
+
+string operations
+
+if/else
+
+10. Mini-aplicație: magazin virtual
+
+Ce trebuie să faci:
+Ai un dicționar cu produse și prețuri.
+Ex:
+
+{"mere": 3, "apa": 5, "paine": 4}
+
+
+Programul:
+
+Afișează produsele
+
+Ceri utilizatorului ce vrea să cumpere
+
+Calculezi totalul
+
+Continui până scrie „stop”
+
+La final afișezi totalul și ce a cumpărat
+
+Folosești:
+
+while
+
+dict
+
+if
+
+funcții
