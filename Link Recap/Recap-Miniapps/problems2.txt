@@ -1,0 +1,7 @@
+1. Ce trebuie să faci:
+Creezi o clasă StudentManager care:
+păstrează o listă de studenți
+poate adăuga student (nume + vârstă)
+poate șterge student după nume
+poate afișa toți studenții
+rulează într-un while True cu un meniu
