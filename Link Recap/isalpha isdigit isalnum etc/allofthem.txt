@@ -1,0 +1,9 @@
+Metode	           what checks
+isalpha	           only characters
+isdigit	           only numbers
+isalnum	           characters and numbers
+islower	           lower case
+isupper	           upper case
+isspace	           spaces
+startswith	       begin
+endswith	       end
