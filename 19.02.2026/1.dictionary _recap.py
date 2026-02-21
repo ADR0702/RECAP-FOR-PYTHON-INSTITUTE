@@ -47,15 +47,15 @@
 
 # print(d)
 
-nume = ["Ana", "Ion", "Maria"]
-note = [9, 7, 10]
+# nume = ["Ana", "Ion", "Maria"]
+# note = [9, 7, 10]
 
-catalog = {}
+# catalog = {}
 
-for i in range(len(nume)):
-    catalog[nume[i]] = note[i]
+# for i in range(len(nume)):
+#     catalog[nume[i]] = note[i]
 
-print(catalog)
+# print(catalog)
 
 
 
@@ -63,7 +63,7 @@ nume = ["Ana", "Ion", "Maria"]
 
 dic={}
 
-for i in range(len(nume)):
-    dic[i]=len[i]
+for i in nume:
+    dic[i]=len(i)
 
 print(dic)
